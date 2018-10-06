@@ -1,2 +1,2 @@
-# hello-world
-just another repository as guiding
+# 编曲学习样例
+...
